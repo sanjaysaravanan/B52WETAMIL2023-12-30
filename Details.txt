@@ -79,6 +79,8 @@ Topics:
     node_modules --> js file & function used by the project ( should not be pushed to github )
 
       Eg: lodash --> utility functions for js
+      
+    readme.md --> used for documenting Your repository codebase
 
 Task:
   Read about Single Page & Multi Page Applications
