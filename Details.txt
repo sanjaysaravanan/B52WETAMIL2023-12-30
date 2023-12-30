@@ -80,7 +80,15 @@ Topics:
 
       Eg: lodash --> utility functions for js
 
+Task:
+  Read about Single Page & Multi Page Applications
+
+  Incase if You do not have nodejs please download it and install
+
 Next Session:
+
+  Single page vs Multiple Page Application
+
   React:
 
     what is react:
